@@ -20,4 +20,4 @@ Sample in Daily life
 - เมทาดาต้าเชิงโครงสร้าง: รูปแบบไฟล์ (DOC, PDF), ขนาดไฟล์, จำนวนหน้า, ภาษา
 เมทาดาต้าเชิงพรรณนา: ผู้เขียน, วันที่สร้าง, วันที่แก้ไขล่าสุด, หัวข้อเอกสาร, คำสำคัญ
 
-- https://github.com/FairFairFairFair/FairFairFairFair.github.io/blob/b4ba94e3431b3ed01da74c54cce0430fd3ad8feb/metadata.md
+https://github.com/FairFairFairFair/FairFairFairFair.github.io/blob/b4ba94e3431b3ed01da74c54cce0430fd3ad8feb/metadata.md
