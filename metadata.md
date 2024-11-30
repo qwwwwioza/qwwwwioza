@@ -1,9 +1,13 @@
 keyword = metadata
 CISSP Glossary
 - ข้อมูลเกี่ยวกับข้อมูล
+  
 == ChatGPT ==
+
 - รายละเอียดที่อธิบายข้อมูล
+  
 == Gemini ==
+
 - รายละเอียดของข้อมูล
 
 2nd Source (NIST)
