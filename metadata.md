@@ -1,4 +1,4 @@
-keyword = metadata
+# metadata
 CISSP Glossary
 - ข้อมูลเกี่ยวกับข้อมูล
   
